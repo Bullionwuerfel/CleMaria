@@ -1,7 +1,5 @@
 Mental Health DA by Clemens and Maria 
 
-Data we were using:
-https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset/data
 
 
 https://en.wikipedia.org/wiki/List_of_countries_by_alcohol_consumption_per_capita
